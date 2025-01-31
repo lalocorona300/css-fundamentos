@@ -2,13 +2,24 @@ body {
     background-color: rgb(0, 255, 13);
     border-radius: 30px;
 }
-.contenedor {
-    width: 500px;
-    height: 500%;
+.bg-primary {
     background-color: blue;
 }
-#midiv {
-    width: 50%;
-    height: 50%;
-    background-color: brown;
+.bg-secondary {
+    background-color: blueviolet;
+}
+.text-primary {
+    color: #383e56;
+}
+.text-ligth {
+    color:blueviolet;
+}
+.text-info {
+    color: #d4b5b0;
+}
+.text-center {
+    text-align: center;
+}
+.w200 {
+    width: 200px;
 }
